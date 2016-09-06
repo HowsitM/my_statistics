@@ -6,12 +6,12 @@ module MyStatistics
 	
 		def initialize(arr)
 			@arr =arr
-			puts "This has been initislized"
+			puts 'This has been initislized'
 		end
 	
 		def avg(arr)
 	
-		
+		average = 
 		end
 	
 	end
